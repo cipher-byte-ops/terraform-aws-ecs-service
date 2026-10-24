@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/Olensys/terraform-aws-ecs-service/compare/v1.0.3...v1.0.4) (2026-10-24)
+
+
+### Bug Fixes
+
+* **examples:** assign a public IP so tasks can pull the image without NAT ([#4](https://github.com/Olensys/terraform-aws-ecs-service/issues/4)) ([b6978bf](https://github.com/Olensys/terraform-aws-ecs-service/commit/b6978bf23baa7b37933411fae14dfed084818d91))
+
 ## [1.0.3](https://github.com/Olensys/terraform-aws-ecs-service/compare/v1.0.2...v1.0.3) (2026-10-24)
 
 
